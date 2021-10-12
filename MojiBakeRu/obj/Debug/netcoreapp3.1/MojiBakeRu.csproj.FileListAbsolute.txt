@@ -1,0 +1,16 @@
+C:\Users\crow\source\repos\MojiBakeRu\MojiBakeRu\bin\Debug\netcoreapp3.1\MojiBakeRu.exe
+C:\Users\crow\source\repos\MojiBakeRu\MojiBakeRu\bin\Debug\netcoreapp3.1\MojiBakeRu.deps.json
+C:\Users\crow\source\repos\MojiBakeRu\MojiBakeRu\bin\Debug\netcoreapp3.1\MojiBakeRu.runtimeconfig.json
+C:\Users\crow\source\repos\MojiBakeRu\MojiBakeRu\bin\Debug\netcoreapp3.1\MojiBakeRu.runtimeconfig.dev.json
+C:\Users\crow\source\repos\MojiBakeRu\MojiBakeRu\bin\Debug\netcoreapp3.1\MojiBakeRu.dll
+C:\Users\crow\source\repos\MojiBakeRu\MojiBakeRu\bin\Debug\netcoreapp3.1\MojiBakeRu.pdb
+C:\Users\crow\source\repos\MojiBakeRu\MojiBakeRu\obj\Debug\netcoreapp3.1\MojiBakeRu.MojiBakeRuMainForm.resources
+C:\Users\crow\source\repos\MojiBakeRu\MojiBakeRu\obj\Debug\netcoreapp3.1\MojiBakeRu.csproj.GenerateResource.cache
+C:\Users\crow\source\repos\MojiBakeRu\MojiBakeRu\obj\Debug\netcoreapp3.1\MojiBakeRu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crow\source\repos\MojiBakeRu\MojiBakeRu\obj\Debug\netcoreapp3.1\MojiBakeRu.AssemblyInfoInputs.cache
+C:\Users\crow\source\repos\MojiBakeRu\MojiBakeRu\obj\Debug\netcoreapp3.1\MojiBakeRu.AssemblyInfo.cs
+C:\Users\crow\source\repos\MojiBakeRu\MojiBakeRu\obj\Debug\netcoreapp3.1\MojiBakeRu.csproj.CoreCompileInputs.cache
+C:\Users\crow\source\repos\MojiBakeRu\MojiBakeRu\obj\Debug\netcoreapp3.1\MojiBakeRu.dll
+C:\Users\crow\source\repos\MojiBakeRu\MojiBakeRu\obj\Debug\netcoreapp3.1\MojiBakeRu.pdb
+C:\Users\crow\source\repos\MojiBakeRu\MojiBakeRu\obj\Debug\netcoreapp3.1\MojiBakeRu.genruntimeconfig.cache
+C:\Users\crow\source\repos\MojiBakeRu\MojiBakeRu\obj\Debug\netcoreapp3.1\MojiBakeRu.csproj.AssemblyReference.cache
